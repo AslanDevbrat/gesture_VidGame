@@ -31,7 +31,7 @@ Apart form it if you have Pycharm that would be great but not mandatory.
 5. This is the last step but the most important step. If you have followed me till now you have
 got two diffrent window one which shows camera feed and the one which show the game. Now place 
    these two window side by side and `click on the game window`. If you dont click on game 
-   wind you camera feed will freeze.
+   window your camera feed will freeze.
    **Note** In the following gif, when my cursor is on the hand tracking window the camera feed freezes.
    So to avoid it move your cursor and **click on the game window**
    ![](final.gif)
