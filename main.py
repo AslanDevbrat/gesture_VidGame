@@ -10,7 +10,6 @@ mp_hands = mp.solutions.hands
 
 import random
 from time import sleep
-
 import pygame
 
 
