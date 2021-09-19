@@ -1,5 +1,5 @@
 # Gesture Controlled Video Game
-### Detailed Blog : https://www.analyticsvidhya.com/blog/2021/06/gesture-controlled-video-game/
+### Detailed Blog : [Analytics Vidhya Blog](https://www.analyticsvidhya.com/blog/2021/06/gesture-controlled-video-game/)
 
 ## Introduction
 This project is an amazing blend of Computer vision and Video Game.
